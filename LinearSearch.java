@@ -1,6 +1,7 @@
 package practice;
 
 public class LinearSearch {
+    
     static int search(int[]arr,int target){
         if (arr.length==0){
             return -1;

@@ -1,6 +1,7 @@
 package practice;
 
 public class MaxOfArrayInRange {
+    
     public static void main(String[] args) {
         int[]arr={17,6,47,5,9};
 
