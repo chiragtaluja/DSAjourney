@@ -16,7 +16,9 @@ It's super easy to get started with this repository! Here's how:
 #### cd DSA-Questions
 #### Compile and run any of the Java files:
 javac Arrays/ArrayRotation.java
+
 java Arrays.ArrayRotation
+
 That’s it! You’re ready to start solving some awesome DSA problems. 🧑‍💻
 
 ## 📚 Usage
