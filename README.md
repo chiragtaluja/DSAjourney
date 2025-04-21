@@ -50,6 +50,3 @@ Comment where necessary to explain complex logic.
 Add detailed explanations for any challenging problems.
 
 Follow the Java conventions for code style.
-
-## 📄 License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
