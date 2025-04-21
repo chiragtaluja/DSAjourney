@@ -11,10 +11,10 @@ It's super easy to get started with this repository! Here's how:
 
 ### Clone this repo to your local machine:
 
-### git clone https://github.com/your-username/DSA-Questions.git
-### Navigate to the repository:
-### cd DSA-Questions
-### Compile and run any of the Java files:
+#### git clone hhttps://github.com/chiragtaluja/DSAjourney.git
+#### Navigate to the repository:
+#### cd DSA-Questions
+#### Compile and run any of the Java files:
 javac Arrays/ArrayRotation.java
 java Arrays.ArrayRotation
 That’s it! You’re ready to start solving some awesome DSA problems. 🧑‍💻
