@@ -16,7 +16,7 @@ public class OrderAgnosticBinarySearch {
         boolean order = find(arr);
         while (start <= end) {
             int mid = start + ((end - start) / 2);
-            if (order == false) {
+            if (!order) {
                 if (arr[mid] > target) {
                     start = mid + 1;
 
