@@ -19,12 +19,8 @@ public class OrderAgnosticBinarySearch {
             if (!order) {
                 if (arr[mid] > target) {
                     start = mid + 1;
-
-
                 } else if (target > arr[mid]) {
-
                     end = mid - 1;
-
                 } else {
                     return mid;
                 }
