@@ -8,6 +8,7 @@ public class BinarySearch {
         if(arr.length==0){
             return 0;
         }
+
         while(start<=end){
             int mid=(start+end)/2;
             if(arr[mid]<target){
