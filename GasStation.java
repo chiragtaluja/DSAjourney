@@ -12,6 +12,7 @@ public class GasStation {
             if (currGas < 0) {
                 stidx = i + 1;
                 currGas = 0;
+
             }
         }
         if (totalGas >= 0) {
