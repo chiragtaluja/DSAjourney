@@ -1,5 +1,5 @@
 package practice;
-//In this question , we have to find number that is equal to or greater than the target element
+//In this question , we have to find number smallest number that is equal to or greater than the target element
 // We will do it by applying binary search to the question
 
 public class CeilingOfANumber {
